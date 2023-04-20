@@ -1,0 +1,1 @@
+python ./code/train.py --dataset nyudepthv2 --data_path 数据集的路径 --max_depth 10.0 --max_depth_eval 10.0
